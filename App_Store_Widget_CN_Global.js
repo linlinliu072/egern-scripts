@@ -1,6 +1,3 @@
-// AppStore 国内+国外 内购限免小组件 for Egern
-// 数据源：国内 api.zxki.cn / 国外 api.03k.org
-
 export default async function(ctx) {
   const widgetFamily = ctx.widgetFamily || 'systemMedium';
 
